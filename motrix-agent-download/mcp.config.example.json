@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "motrix-agent": {
+      "command": "python3",
+      "args": ["-I", "/ABSOLUTE/PATH/TO/motrix-agent-download/scripts/server.py"]
+    }
+  }
+}

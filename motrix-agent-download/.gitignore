@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+test-downloads/
+live-task.json
+live-result.json
+*.env

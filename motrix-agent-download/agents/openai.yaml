@@ -1,0 +1,6 @@
+interface:
+  display_name: "Motrix 下载协作"
+  short_description: "结合 Lightpanda 与 Motrix，探测线路、选择连接数并跟踪下载和校验结果"
+  default_prompt: "使用 $motrix-agent-download 查找所需文件，选择合适线路交给 Motrix，并确认下载和校验结果。"
+policy:
+  allow_implicit_invocation: true
